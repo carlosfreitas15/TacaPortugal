@@ -1,0 +1,11 @@
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\bin\Debug\exTacaPortugal.exe.config
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\bin\Debug\exTacaPortugal.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\bin\Debug\exTacaPortugal.pdb
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.Form1.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.Properties.Resources.resources
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.exe
+C:\Users\carlo\Desktop\Formacao de programacao\CSharp\exTacaPortugal\exTacaPortugal\obj\Debug\exTacaPortugal.pdb
